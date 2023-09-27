@@ -10,8 +10,8 @@ Project description: we are provided with a snapshot of Magist's dataset (a fict
 
 # 2 Main business questions:
 
-1.Eniac’s catalogue is 100% tech products and heavily based on Apple-compatible accessories. It is not clear that Magist is a good partner for these high-end tech products.
-2.Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
+1. Eniac’s catalogue is 100% tech products and heavily based on Apple-compatible accessories. It is not clear that Magist is a good partner for these high-end tech products.
+2. Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
 
 ----
 final presentation for the recommendations to the WBS team: 
